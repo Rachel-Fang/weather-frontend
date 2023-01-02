@@ -1,0 +1,12 @@
+.card{
+    min-width: 980px;
+    min-height: 574px;
+    margin: auto;
+    background: red;
+    z-index:99;
+}
+
+h1{
+    margin: 0;
+    padding: 0;
+}
